@@ -1,0 +1,7 @@
+.media{
+    display: flex;
+}
+
+@media (max-width: 950px) {
+    .media{flex-wrap: wrap}
+}

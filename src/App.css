@@ -1,0 +1,9 @@
+.main_container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+img, iframe {
+    max-width: 100%;
+}
